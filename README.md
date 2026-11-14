@@ -1,6 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=AIGHT&textBg=false&fontSize=70&fontAlign=35&fontAlignY=38&rotate=0&strokeWidth=0&desc=%22We+make+AI+right.%22&descSize=20&descAlign=57&descAlignY=44)
-
-**"AI로 마케팅의 새로운 정답을 만들다"**
+![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&text=AIGHT&textBg=false&fontSize=100&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&desc=%22AI%EB%A1%9C+%EB%A7%88%EC%BC%80%ED%8C%85%EC%9D%98+%EC%83%88%EB%A1%9C%EC%9A%B4+%EC%A0%95%EB%8B%B5%EC%9D%84+%EB%A7%8C%EB%93%A4%EB%8B%A4%22&descSize=30&descAlign=50&descAlignY=60)
 
 AI와 RIGHT(정답, 올바른 방향)의 결합으로, AI 기술을 활용해 마케팅의 새로운 방향과 정답을 제시하는 팀입니다.
 
