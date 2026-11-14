@@ -1,13 +1,6 @@
-# AIGHT (에잇)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=AIGHT&textBg=false&fontSize=70&fontAlign=35&fontAlignY=38&rotate=0&strokeWidth=0&desc=%22We+make+AI+right.%22&descSize=20&descAlign=57&descAlignY=44)
 
-### We make AI right.
-**AI로 마케팅의 새로운 정답을 만들다.**
-
----
-
-<h2 style="border-bottom: none; padding-bottom: 0;">💡 About AIGHT</h2>
-
-**AIGHT = AI + RIGHT**
+**"AI로 마케팅의 새로운 정답을 만들다"**
 
 AI와 RIGHT(정답, 올바른 방향)의 결합으로, AI 기술을 활용해 마케팅의 새로운 방향과 정답을 제시하는 팀입니다.
 
